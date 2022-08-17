@@ -1,43 +1,49 @@
--Project Overview
+# **-Project Overview**
 Students’ College Accommodation System provides facility of manage admission
 system of a college. Student can apply a for a college and Accommodation manager can
 manage her/his request application based on availability of the requested college.there
-are three modules of the system: (1)admin (2)student (3)Accommodation manager
--Tools & technology usage
+are three modules of the system: 
+- 			admin
+- 			student 
+- 			Accommodation manager
+#**-Tools & technology usage**
 Html , Css, Javascript, Php , Mysql
--System Module
+#### -System Module
 Admin:
 admin cam manages the website and the database of the system.
 Admin can set up the database with the information on all users
 involved, including their username, password and user level. ⦁
 Admin can add new user, and edit and delete any information on
 current users.
+
 Student:
 A student can login to website by taking login info from admin.
 a student can apply for a college accommodation by filling up a
 form in the system.
+
 Manager:
 A Accommodation Manager can login to website by taking login
 info from admin .Accommodation Manager can approve/reject the
 application based on availability of the requested college.
 -Module Functionality
-Admin:
+##### Admin:
 ● Create new user
 ● Edit existed user
 ● Delete user
-Student:
+##### Student:
 ● Edit own info
 ● Apply for a college
 ● View request status
-Manager:
+##### Manager:
 ● Edit own info
 ● manage request application based on availability
 ● View all request based on availability
-– Database design
--User Manual
+
+# -User Manual
 First of all we have to download xampp. We can download it from from
 Google and install it.
 Now we have to open xampp control panel and start apache server and mysql database.
+![](https://ibb.co/pLyn6nq)
 After that we have to set up our database .for that open a browser and go to
 http://localhost/phpmyadmin/ and create a new database named managementsystem.
 Now we have to import our .sql file for that select out database managementsystem
