@@ -1,8 +1,8 @@
-#Project Overview
+<h1>Project Overview</h1>
 
 Students’ College Accommodation System  provides facility of manage admission system of a college. Student can apply a for a college and Accommodation manager can manage her/his request application based on availability of the requested college.there are three modules of the system: (1)admin (2)student (3)Accommodation  manager
 
-**-Tools & technology usage**
+<h1>Tools & technology usage</h1>
 
 Html , Css, Javascript, Php , Mysql
 
@@ -20,7 +20,7 @@ A student can login to website by taking login info from admin. a student can  a
 
 A Accommodation Manager can login to website by taking login info from admin .Accommodation Manager can  approve/reject the application based on availability of the requested college.
 
-**-Module Functionality**
+<h1>Module Functionality</h1>
 
 **Admin:**
 
@@ -40,11 +40,11 @@ A Accommodation Manager can login to website by taking login info from admin .Ac
 - manage request application based on availability
 - View all request based on availability
 
-**– Database design**
+<h1>Database design</h1>
 
 ![database](https://i.ibb.co/Kzg26mY/Aspose-Words-b9253608-d095-406d-859e-18df2f7bd153-001.jpg")
 
-**-User Manual**
+<h1>User Manual</h1>
 
 First of all we have to download xampp. We can download it from from Google and install it.
 
@@ -54,11 +54,11 @@ Now we have to open xampp control panel and start apache server and mysql databa
 
 ![alt text](https://i.ibb.co/6XcSY0M/Aspose-Words-b9253608-d095-406d-859e-18df2f7bd153-003.png)
 
-After that we have to set up our database .for that open a browser and go to <http://localhost/phpmyadmin/>and create a new databasenamed**managementsystem.**
+After that we have to set up our database .for that open a browser and go to <http://localhost/phpmyadmin/>and create a new databasenamed **managementsystem.**
 
 ![alt text](https://i.ibb.co/3y4CHch/Aspose-Words-b9253608-d095-406d-859e-18df2f7bd153-004.jpg)
 
-Now we have to import our .sql  le for that select out database**managementsystem** and go to import and upload our **managementsystem.sql**  le that is given with our project and click go. After that all tables that neeed for our project will be inserted.
+Now we have to import our .sql  le for that select out database **managementsystem** and go to import and upload our **managementsystem.sql**  le that is given with our project and click go. After that all tables that neeed for our project will be inserted.
 
 ![alt text](https://i.ibb.co/W3ctv9h/Aspose-Words-b9253608-d095-406d-859e-18df2f7bd153-005.jpg)
 
